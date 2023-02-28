@@ -1,0 +1,5 @@
+package com.example.to_docompose.util
+//WE WILL USE THIS ENUM CLASS O PASS THE ACTION FRO TASK COMPOSABLE TO LIST SCREEN.
+enum class Action {
+    ADD,UPDATE,DELETE,DELETE_ALL,UNDO,NO_ACTION
+}
